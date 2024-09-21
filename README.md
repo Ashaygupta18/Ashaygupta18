@@ -1,8 +1,9 @@
 - 👋 Hi, My name is Ashay Gupta
 - 👀 I’m interested in learning about coding 
 - 🌱 I’m currently learning Python language for programming
-- 📫 I have active accounts on Twitter and LinkedIn, which I have linked to my profile 
+- 📫 I have active accounts on X and LinkedIn, which I have linked to my profile 
 - 😄 Pronouns: he/him
+- 📚 Regarding my progress on X, you can check it out if you are interested
 
 <!---
 Ashaygupta18/Ashaygupta18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
